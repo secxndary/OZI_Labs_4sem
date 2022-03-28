@@ -1,0 +1,3 @@
+﻿  OZI_Lab6.cpp
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab6\OZI_Lab6\OZI_Lab6.cpp(238,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OZI_Lab6.vcxproj -> C:\Users\valda\Desktop\ОЗИ\OZI_Lab6\x64\Debug\OZI_Lab6.exe
