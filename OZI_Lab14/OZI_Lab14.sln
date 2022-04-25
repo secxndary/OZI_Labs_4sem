@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OZI_Lab14", "OZI_Lab14\OZI_Lab14.csproj", "{D246F8C3-5B5A-4BE3-A089-D49D46B5ED5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D246F8C3-5B5A-4BE3-A089-D49D46B5ED5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D246F8C3-5B5A-4BE3-A089-D49D46B5ED5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D246F8C3-5B5A-4BE3-A089-D49D46B5ED5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D246F8C3-5B5A-4BE3-A089-D49D46B5ED5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A3D5FB-514C-4116-B239-D7631899412B}
+	EndGlobalSection
+EndGlobal

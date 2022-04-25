@@ -1,0 +1,11 @@
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\bin\Debug\OZI_Lab14.exe.config
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\bin\Debug\OZI_Lab14.exe
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\bin\Debug\OZI_Lab14.pdb
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\obj\Debug\OZI_Lab14.csproj.AssemblyReference.cache
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\obj\Debug\OZI_Lab14.csproj.SuggestedBindingRedirects.cache
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\obj\Debug\OZI_Lab14.Form1.resources
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\obj\Debug\OZI_Lab14.Properties.Resources.resources
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\obj\Debug\OZI_Lab14.csproj.GenerateResource.cache
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\obj\Debug\OZI_Lab14.csproj.CoreCompileInputs.cache
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\obj\Debug\OZI_Lab14.exe
+C:\Users\valda\Desktop\ОЗИ\OZI_Lab14\OZI_Lab14\obj\Debug\OZI_Lab14.pdb
